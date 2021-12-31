@@ -30,7 +30,7 @@ int main(int argc, const char * argv[]) {
     fortunes.push_back("You will be hungry again in one hour\n");
     fortunes.push_back("Do not mistake temptation for opportunity\n");
     fortunes.push_back("It wll never be tomorrow\n");
-    fortunes.push_back("");
+    fortunes.push_back("1 + 1 = window\n");
     srand(time(0));
     int choice;
     bool quit = false;
